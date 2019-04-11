@@ -1,0 +1,12 @@
+﻿  Main.cpp
+c:\users\prisc\source\repos\comp371project\comp371project\main.cpp(35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\prisc\source\repos\comp371project\comp371project\main.cpp(36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\prisc\source\repos\comp371project\comp371project\main.cpp(37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\prisc\source\repos\comp371project\comp371project\main.cpp(38): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\prisc\source\repos\comp371project\comp371project\main.cpp(41): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\prisc\source\repos\comp371project\comp371project\main.cpp(41): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+c:\users\prisc\source\repos\comp371project\comp371project\main.cpp(42): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\prisc\source\repos\comp371project\comp371project\main.cpp(42): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  loadScene.cpp
+  Generating Code...
+  Comp371Project.vcxproj -> C:\Users\prisc\source\repos\Comp371Project\Debug\Comp371Project.exe
